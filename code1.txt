@@ -1,0 +1,192 @@
+
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Arti Nalegaonkar Data Projects</title>
+  <meta name="author" content="Arti Nalegaonkar">
+  <meta name="description" content="Data Projects">
+  <meta property="og:title" content="Arti Nalegaonkar Data Projects">
+  <meta property="og:url" content="analegaonkar.github.io/">
+  <meta property="og:site_name" content="Arti Nalegaonkar Data Projects">
+  <meta property="og:description" content="Data Projects">
+  <meta property="og:image" content="">
+  <meta property="og:type" content="blog">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:description" content="Data Science Projects">
+  <meta name="twitter:title" content="Arti Nalegaonkar Data Projects">
+  <meta name="twitter:url" content="analegaonkar.github.io/">
+  <meta name="twitter:site" content="Arti Nalegaonkar Data Projects
+  <meta name="twitter:creator" content="@">
+  <meta name="twitter:domain" content="analegaonkar.github.io">
+  <meta property="twitter:image" content="">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata|Lora|Space+Mono:700">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
+
+  <link rel="alternate" type="application/rss+xml" title="Arti Nalegaonkar Data Projects" href="analegaonkar.github.io/feed.xml">
+  <link rel="canonical" href="analegaonkar.github.io/">
+
+  
+</head>
+
+
+  <body>
+
+    <main>
+      <section class="previews">
+  <div>
+    
+      <figure class="absolute-bg preview__img" style="background-image: url('http://www.khaledibrahem.com/wp-content/uploads/2016/10/o-3.jpg');"></figure>
+    
+      <figure class="absolute-bg preview__img" style="background-image: url('https://sandmafia.files.wordpress.com/2015/07/imdb.jpg');"></figure>
+    
+      <figure class="absolute-bg preview__img" style="background-image: url('http://static.bbc.co.uk/history/img/ic/640/images/resources/histories/titanic.jpg');"></figure>
+    
+      <figure class="absolute-bg preview__img" style="background-image: url('http://www.rcrwireless.com/wp-content/uploads/2014/06/indeed-logo-1024x422.jpg');"></figure>
+    
+      <figure class="absolute-bg preview__img" style="background-image: url('http://static-39.sinclairstoryline.com/resources/media/a452b7a5-5791-4ded-8c99-19c47192a187-large16x9_Liquor_Logo.jpg?1458866898413');"></figure>
+    
+    <div class="previews__container">
+      <span>Welcome to</span>
+      <h1>Arti Nalegaonkar Data Projects</h1>
+    </div>
+  </div>
+
+  <div>
+    <header>
+      <ul class="tabs">
+        <li class="tabs__item">Posts</li>
+        <li class="tabs__item">Categories</li>
+      </ul>
+    </header>
+
+    <div class="tab">
+      <ul itemscope itemtype="http://schema.org/Blog">
+        
+          <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+            <a class="preview__link" href="/2017/05/09/project-7/" itemprop="url">
+              <span class="preview__date" itemprop="datePublished" datetime="2017-05-09T00:00:00+00:00">May 9, 2017</span>
+              <h2 class="preview__header" itemprop="name">Airport Delays</h2>
+              <p class="preview__excerpt" itemprop="description">Airport Delays &amp; Clustering Scenario You’ve been hired by the FAA as a consultant to analyze the operations of major airports around the country. The FAA wants to cut down...</p>
+              <span class="preview__more">Read More</span>
+            </a>
+          </li>
+        
+          <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+            <a class="preview__link" href="/2017/04/24/project-6/" itemprop="url">
+              <span class="preview__date" itemprop="datePublished" datetime="2017-04-24T00:00:00+00:00">Apr 24, 2017</span>
+              <h2 class="preview__header" itemprop="name">IMDB Ratings </h2>
+              <p class="preview__excerpt" itemprop="description">IMDB MOVIE RATING PREDICTOR Scenario Examine what factors lead to certain ratings for movies. Given that Netflix does not currently store this type of data, your boss has suggested that...</p>
+              <span class="preview__more">Read More</span>
+            </a>
+          </li>
+        
+          <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+            <a class="preview__link" href="/2017/03/09/project-5/" itemprop="url">
+              <span class="preview__date" itemprop="datePublished" datetime="2017-03-09T00:00:00+00:00">Mar 9, 2017</span>
+              <h2 class="preview__header" itemprop="name">Disaster Relief - Titanic Survival </h2>
+              <p class="preview__excerpt" itemprop="description">Disaster Relief Titanic Survival Scenario As a data scientist with a research firm that specializes in emergency management. In advance of client work, you’ve been asked to create and train...</p>
+              <span class="preview__more">Read More</span>
+            </a>
+          </li>
+        
+          <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+            <a class="preview__link" href="/2016/12/13/project-4/" itemprop="url">
+              <span class="preview__date" itemprop="datePublished" datetime="2016-12-13T00:00:00+00:00">Dec 13, 2016</span>
+              <h2 class="preview__header" itemprop="name">Data Science Salaries</h2>
+              <p class="preview__excerpt" itemprop="description">Data Science Salaries WebScraping &amp; Log Regression Premise A contracting firm that’s rapidly expanding wants to leverage data to win more contracts. The firm offers technology and scientific solutions and...</p>
+              <span class="preview__more">Read More</span>
+            </a>
+          </li>
+        
+          <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+            <a class="preview__link" href="/2016/11/12/project-3/" itemprop="url">
+              <span class="preview__date" itemprop="datePublished" datetime="2016-11-12T00:00:00+00:00">Nov 12, 2016</span>
+              <h2 class="preview__header" itemprop="name">Iowa Liquor Sales</h2>
+              <p class="preview__excerpt" itemprop="description">IOWA LIQUOR SALES 2015 - 2016 Market Opportunity / Business Expansion A liquor store owner in Iowa is looking to expand to new locations and has hired you to investigate...</p>
+              <span class="preview__more">Read More</span>
+            </a>
+          </li>
+        
+      </ul>
+
+      
+        <div class="pagination">
+          
+
+          
+            <a href="/blog/page-2">Next</a>
+          
+        </div>
+      
+
+      <footer class="section-padding--sm footer">
+  <a class="footer__archive" href="/archive/">Archive</a>
+  <ul class="footer__social">
+    <li><a class="fa fa-lg fa-envelope-o" href="mailto:analegaonkar@gmail.com"></a></li>
+    
+      <li><a class="fa fa-lg fa-" href="" target="_blank"></a></li>
+    
+  </ul>
+</footer>
+
+    </div>
+
+    <div class="tab">
+  <ul class="cards">
+    
+      
+      <li class="card">
+        <a class="card__link" href="/category/projects/">
+          
+            <div class="card__img">
+              
+                <figure class="absolute-bg" style="background-image: url('http://www.khaledibrahem.com/wp-content/uploads/2016/10/o-3.jpg');"></figure>
+              
+            </div>
+          
+          <div class="card__container">
+            <h2 class="card__header">Projects</h2>
+            <p class="card__count">7 Posts</p>
+            <span class="card__more">View All</span>
+          </div>
+        </a>
+      </li>
+    
+  </ul>
+
+  <footer class="section-padding--sm footer">
+  <a class="footer__archive" href="/archive/">Archive</a>
+  <ul class="footer__social">
+    <li><a class="fa fa-lg fa-envelope-o" href="mailto:analegaonkar@gmail.com"></a></li>
+    
+      <li><a class="fa fa-lg fa-" href="" target="_blank"></a></li>
+    
+  </ul>
+</footer>
+
+</div>
+
+
+  </div>
+
+</section>
+
+    </main>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script type="text/javascript" src="/assets/js/app.js"></script>
+
+
+  </body>
+
+</html>
